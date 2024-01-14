@@ -7,13 +7,15 @@ p{
     /* background-color: Black;
     color: white; */
    text-align: right;
+   line-height: 2.5;
+   letter-spacing: 10px;
 
 }
 h3{
     text-align: right;
 }
 h2{
-   font-weight: ;
+   font-weight: normal;
 }
 
 .athar{
