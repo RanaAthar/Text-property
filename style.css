@@ -4,15 +4,16 @@ h1{
 
 }
 p{
-    background-color: Black;
-    color: white;
+    /* background-color: Black;
+    color: white; */
    text-align: right;
+
 }
 h3{
     text-align: right;
 }
 h2{
-    background-color: chartreuse;
+   font-weight: ;
 }
 
 .athar{
